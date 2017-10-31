@@ -1,2 +1,2 @@
-# 2D_Multiphase_Phase_Field_Solver
+# Nonlinear_Adaptive_Variational_Partitioned_Solver_Two_Phase_Flows
 A two-dimensional multiphase solver based on incompressible Navier-Stokes and conservative Allen-Cahn equations
